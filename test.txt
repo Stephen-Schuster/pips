@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title id="page-title">NYT Pips Archive Monday, August 18, 2025 - New York Times Archive</title>
+    <meta id="page-description" name="description" content="Explore the NYT pips archive for Monday, August 18, 2025 from the New York Times Archive collection. Access complete NYT pips archive puzzles and solutions from the New York Times Archive for Monday, August 18, 2025.">
+    <meta name="keywords" content="nyt pips answer, nyt pips hint, nyt pips solution, new york times pips answer, pips puzzle answer, pips game hint">
+    <link id="page-canonical" rel="canonical" href="https://pipspuzzle.com/nyt-pips-archive-2025-08-18.html">
+    
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5120823394918772"
+         crossorigin="anonymous"></script>
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="article">
+    <meta id="og-url" property="og:url" content="https://pipspuzzle.com/nyt-pips-archive-2025-08-18.html">
+    <meta id="og-title" property="og:title" content="NYT Pips Archive Monday, August 18, 2025 - New York Times Archive">
+    <meta id="og-description" property="og:description" content="Explore the NYT pips archive for Monday, August 18, 2025 from the New York Times Archive collection. Access complete NYT pips archive puzzles and solutions from the New York Times Archive for Monday, August 18, 2025.">
+    <meta property="og:image" content="https://pipspuzzle.com/og-image.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta id="twitter-url" property="twitter:url" content="https://pipspuzzle.com/nyt-pips-archive-2025-08-18.html">
+    <meta id="twitter-title" property="twitter:title" content="NYT Pips Archive Monday, August 18, 2025 - New York Times Archive">
+    <meta id="twitter-description" property="twitter:description" content="Explore the NYT pips archive for Monday, August 18, 2025 from the New York Times Archive collection. Access complete NYT pips archive puzzles and solutions from the New York Times Archive for Monday, August 18, 2025.">
+    <meta property="twitter:image" content="https://pipspuzzle.com/og-image.png">
+
+    <!-- Structured Data -->
+    <script id="structured-data" type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "NYT Pips Archive Monday, August 18, 2025 - New York Times Archive",
+    "description": "Explore the NYT pips archive for Monday, August 18, 2025 from the New York Times Archive collection. Access complete NYT pips archive puzzles and solutions from the New York Times Archive for Monday, August 18, 2025.",
+    "datePublished": "2025-08-18T07:00:00.000Z",
+    "author": {
+        "@type": "Organization",
+        "name": "Pips Puzzle Game"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Pips Puzzle Game"
+    }
+}
+    </script>
+    
+    <link rel="stylesheet" href="css/main.css?v=2025.27">
+    <!-- i18n System -->
+    <script src="js/i18n.js"></script>
+    <style>
+        
+        .back-link {
+            color: var(--ghibli-charcoal);
+            text-decoration: none;
+            font-size: 0.9em;
+            font-weight: 600;
+            padding: 10px 18px;
+            border: 2px solid var(--ghibli-forest-green);
+            border-radius: 20px;
+            transition: all 0.3s ease;
+            display: inline-block;
+            margin-bottom: 25px;
+            background: linear-gradient(135deg, var(--ghibli-warm-cream), var(--ghibli-soft-peach));
+            white-space: nowrap;
+            box-shadow: 0 4px 15px var(--ghibli-soft-shadow);
+        }
+        
+        .back-link:hover {
+            background: var(--ghibli-spirit-blue);
+            color: white;
+            border-color: var(--ghibli-sky-blue);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px var(--ghibli-magic-glow);
+        }
+
+        
+        .game-layout {
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+            align-items: center;
+        }
+        
+        .game-board-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+        
+        .board-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+            width: 100%;
+            max-width: 800px;
+        }
+        
+        .board-title {
+            font-size: 1.125rem;
+            font-weight: 600;
+        }
+        
+        .dominoes-section {
+            width: 100%;
+            max-width: 800px;
+            margin-top: 24px;
+        }
+        
+        /* Tighter spacing for archive pages */
+        .game-layout .dominoes-section {
+            margin-top: 8px;
+        }
+        
+        .date-navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 800px;
+            width: 100%;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        
+        .nav-arrow {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 12px 20px;
+            background: linear-gradient(135deg, var(--ghibli-warm-cream), var(--ghibli-soft-peach));
+            border: 2px solid var(--ghibli-forest-green);
+            border-radius: 20px;
+            text-decoration: none;
+            color: var(--ghibli-charcoal);
+            font-weight: 600;
+            transition: all 0.3s ease;
+            min-width: 140px;
+            box-shadow: 0 4px 15px var(--ghibli-soft-shadow);
+        }
+        
+        .nav-arrow:hover {
+            background: var(--ghibli-spirit-blue);
+            border-color: var(--ghibli-sky-blue);
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px var(--ghibli-magic-glow);
+        }
+        
+        .nav-arrow.disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            pointer-events: none;
+        }
+        
+        .nav-arrow-left {
+            justify-content: flex-start;
+        }
+        
+        .nav-arrow-right {
+            justify-content: flex-end;
+            text-align: right;
+        }
+        
+        .nav-date {
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+        
+        .nav-arrow:hover .nav-date {
+            color: #007bff;
+        }
+        
+        @media (max-width: 640px) {
+            .date-navigation {
+                padding: 0 10px;
+            }
+            
+            .nav-arrow {
+                min-width: 100px;
+                padding: 10px 12px;
+                font-size: 0.9em;
+            }
+            
+            .nav-date {
+                font-size: 0.8em;
+            }
+        }
+        
+        
+        .error-message {
+            display: none;
+            text-align: center;
+            padding: 20px;
+            color: #dc2626;
+            background: #fef2f2;
+            border: 1px solid #fecaca;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        /* Button styles */
+        .btn {
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-weight: 500;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        
+        .btn-primary {
+            background-color: #2563eb;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background-color: #1d4ed8;
+        }
+        
+        .btn-secondary {
+            background-color: #e5e7eb;
+            color: #374151;
+        }
+        
+        .btn-secondary:hover {
+            background-color: #d1d5db;
+        }
+
+        .btn-sidekick {
+            background: linear-gradient(135deg, #ffc107, #ffb300) !important;
+            color: #212529 !important;
+            display: inline-flex;
+            align-items: center;
+            position: relative;
+            font-weight: 600;
+        }
+
+        .btn-sidekick:hover {
+            background: linear-gradient(135deg, #e0a800, #cc9a00) !important;
+            color: #212529 !important;
+        }
+
+        .btn-sidekick::after {
+            content: "Get hints and solutions";
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #333;
+            color: white;
+            padding: 6px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            white-space: nowrap;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s;
+            margin-bottom: 5px;
+            z-index: 1000;
+        }
+
+        .btn-sidekick:hover::after {
+            opacity: 1;
+        }
+        
+        /* Game board styles */
+        #game-board-container {
+            min-height: 400px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        /* Loading animation */
+        .loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 200px;
+            color: #6b7280;
+        }
+        
+        .loading::after {
+            content: '';
+            width: 32px;
+            height: 32px;
+            border: 3px solid #e5e7eb;
+            border-top: 3px solid #2563eb;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        /* Difficulty selector styling to match main page */
+        .difficulty-selector {
+            text-align: center;
+            margin: 10px 0 20px 0;
+        }
+        
+        .difficulty-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            background: var(--ghibli-paper-white);
+            border-radius: 25px;
+            padding: 8px;
+            max-width: 400px;
+            margin: 0 auto;
+            box-shadow: 0 2px 10px var(--ghibli-soft-shadow);
+        }
+        
+        .btn-difficulty {
+            background: linear-gradient(135deg, var(--ghibli-warm-cream), var(--ghibli-soft-peach));
+            color: var(--ghibli-charcoal);
+            border: 2px solid var(--ghibli-forest-green);
+            flex: 1;
+            padding: 10px 16px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+        
+        .btn-difficulty:hover {
+            background: linear-gradient(135deg, var(--ghibli-soft-peach), var(--ghibli-cherry-blossom));
+            transform: translateY(-1px);
+            box-shadow: 0 4px 15px var(--ghibli-soft-shadow);
+        }
+        
+        .btn-difficulty.active {
+            background: linear-gradient(135deg, var(--ghibli-forest-green), var(--ghibli-deep-green));
+            color: white;
+            border-color: var(--ghibli-deep-green);
+            box-shadow: 0 4px 15px var(--ghibli-warm-shadow);
+        }
+
+        @media (max-width: 640px) {
+            .archive-game-container {
+                padding: 16px;
+            }
+            
+            .archive-header h1 {
+                font-size: 1.5rem;
+            }
+            
+            .difficulty-buttons {
+                flex-wrap: wrap;
+                gap: 8px;
+            }
+            
+            .btn-difficulty {
+                font-size: 0.85em;
+                padding: 6px 12px;
+            }
+            
+            .game-layout {
+                gap: 16px;
+            }
+        }
+        
+    </style>
+    <!-- Theme System -->
+    <link rel="stylesheet" href="/css/themes.css?v=2025.28">
+    <script src="/js/theme-switcher.js"></script>
+</head>
+<body>
+    <div class="game-container">
+        <a href="nyt-pips-archive.html" class="back-link">← Back to Archive</a>
+        
+        <header class="header">
+            <div class="header-top">
+                <h1 id="main-title">NYT Pips Archive Monday, August 18, 2025 - New York Times Archive</h1>
+            </div>
+            <p id="main-description">Explore the NYT pips archive for Monday, August 18, 2025 from the New York Times Archive collection. Access complete NYT pips archive puzzles and solutions from the New York Times Archive for Monday, August 18, 2025.</p>
+        </header>
+
+        <main class="game-content">
+        
+        <div class="date-navigation" id="date-navigation">
+            <!-- Navigation arrows will be generated here -->
+        </div>
+        
+        <div class="difficulty-selector" id="difficulty-selector">
+            <!-- Difficulty buttons will be generated here -->
+        </div>
+        
+        <div style="display: flex; justify-content: center; align-items: center; gap: 24px; margin: 16px 0; flex-wrap: wrap;">
+            <div class="timer" aria-label="Game timer">
+                <span id="timer-display">00:00</span>
+                <button class="pause-btn" id="pauseBtn" onclick="toggleTimer()" aria-label="Pause/Resume timer">⏸</button>
+            </div>
+        </div>
+        
+        <div id="error-message" class="error-message">
+            <!-- Error message will be shown here if needed -->
+        </div>
+        
+            <div class="game-layout">
+                <div class="game-board-section">
+                    
+                    <div id="game-board-container" class="loading">
+                        Loading puzzle...
+                    </div>
+                    
+                    <div class="dominoes-section">
+                        <div class="sidebar-section" id="domino-sidebar">
+                            <!-- Domino tiles will be generated here -->
+                        </div>
+                    </div>
+                    
+                    <!-- Game control buttons -->
+                    <div class="game-controls">
+                        <button id="solution-toggle" class="btn btn-reveal" aria-label="Show puzzle solution">Reveal</button>
+                        
+                        <button class="btn btn-sidekick" onclick="window.open('../nyt-pips-hints/', '_blank')" aria-label="Get hints and solutions" title="Sidekick - Get hints and solutions">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 6px;">
+                                <path d="M9 21c0 .5.4 1 1 1h4c.6 0 1-.5 1-1v-1H9v1zm3-19C8.1 2 5 5.1 5 9c0 2.4 1.2 4.5 3 5.7V17c0 .5.4 1 1 1h6c.6 0 1-.5 1-1v-2.3c1.8-1.3 3-3.4 3-5.7 0-3.9-3.1-7-7-7z"/>
+                            </svg>
+                            Sidekick
+                        </button>
+                        
+                        <div class="sound-control">
+                            <span>Sound</span>
+                            <label class="sound-toggle">
+                                <input type="checkbox" id="soundToggle" checked onchange="toggleSound()" aria-label="Toggle sound effects">
+                                <span class="toggle-slider"></span>
+                            </label>
+                        </div>
+                        
+                        <div class="theme-control">
+                            <span>Theme</span>
+                            <select id="themeSelector" onchange="switchColorTheme(this.value)" aria-label="Choose color theme">
+                                <option value="gelato">Gelato Pastels</option>
+                                <option value="classic">Classic Bright</option>
+                                <option value="ocean">Ocean Breeze</option>
+                                <option value="calm">Calm & Confident</option>
+                                <option value="cvd">Color Vision Deficiency (CVD)</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        
+        <section class="game-description">
+            <div id="game-description-content" style="max-width: 800px; margin: 48px auto 0; padding: 24px; background: #f9fafb; border-radius: 12px; font-size: 16px; line-height: 1.6;">
+                <!-- Dynamic content will be populated here -->
+            </div>
+        </section>
+        
+        <footer class="game-footer">
+            <div class="footer-meta">
+                <p>&copy; 2025 Pips Game Unlimited. Free pips dominoes game online.</p>
+                <p style="margin-top: 10px;">
+                    <!-- <a href="https://ko-fi.com/pipspuzzle" style="color: #666; text-decoration: none; margin-right: 15px;" target="_blank">☕ Buy Me A Coffee</a> -->
+                    <a href="nyt-pips-archive.html" style="color: #666; text-decoration: none; margin-right: 15px;">NYT Pips Archive</a>
+                    <a href="index.html" style="color: #666; text-decoration: none; margin-right: 15px;">Play Pips Game</a>
+                    <a href="how-to-play-pips.html" style="color: #666; text-decoration: none; margin-right: 15px;">How to Play NYT Pips</a>
+                    <a href="faq.html" style="color: #666; text-decoration: none; margin-right: 15px;">FAQ</a>
+                    <a href="terms.html" style="color: #666; text-decoration: none;">Terms of Use</a>
+                </p>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Load Supabase from CDN -->
+    <script src="https://unpkg.com/@supabase/supabase-js@2"></script>
+    
+    <!-- Load our Supabase browser client -->
+    <script src="js/supabase-browser.js?v=2025.27"></script>
+    
+    <!-- Load the game engine -->
+    <script src="js/nyt-archive-game.js?v=2025.27"></script>
+
+    <script>
+        
+        // Fixed date for this generated page
+        function getDateFromFilename() {
+            return '2025-08-18';
+        }
+
+        // Format date for display
+        function formatDateForDisplay(dateString) {
+            const date = new Date(dateString + 'T00:00:00');
+            const options = { 
+                weekday: 'long', 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric' 
+            };
+            return date.toLocaleDateString('en-US', options);
+        }
+
+        // Update page metadata and content based on date
+        function updatePageContent(date, formattedDate) {
+            // Update page title and meta tags
+            const title = `NYT Pips Archive ${formattedDate} - New York Times Archive`;
+            const description = `Explore the NYT pips archive for ${formattedDate} from the New York Times Archive collection. Access complete NYT pips archive puzzles and solutions from the New York Times Archive for ${formattedDate}.`;
+            const url = `https://pipspuzzle.com/nyt-pips-archive-${date}.html`;
+            const isoDate = new Date(date + 'T00:00:00').toISOString();
+
+            document.getElementById('page-title').textContent = title;
+            document.getElementById('page-description').setAttribute('content', description);
+            document.getElementById('page-canonical').setAttribute('href', url);
+            
+            document.getElementById('og-url').setAttribute('content', url);
+            document.getElementById('og-title').setAttribute('content', title);
+            document.getElementById('og-description').setAttribute('content', description);
+            
+            document.getElementById('twitter-url').setAttribute('content', url);
+            document.getElementById('twitter-title').setAttribute('content', title);
+            document.getElementById('twitter-description').setAttribute('content', description);
+
+            // Update structured data
+            const structuredData = {
+                "@context": "https://schema.org",
+                "@type": "Article",
+                "headline": title,
+                "description": description,
+                "datePublished": isoDate,
+                "author": {
+                    "@type": "Organization",
+                    "name": "Pips Puzzle Game"
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Pips Puzzle Game"
+                }
+            };
+            document.getElementById('structured-data').textContent = JSON.stringify(structuredData, null, 2);
+
+            // Update main content
+            document.getElementById('main-title').textContent = title;
+            document.getElementById('main-description').textContent = description;
+
+            // Update description section
+            const descriptionContent = `
+                <h2 style="color: #1f2937; margin-bottom: 16px; font-size: 1.5rem;">NYT Pips Archive ${formattedDate} - New York Times Archive</h2>
+                <p style="margin-bottom: 16px;">This NYT pips archive entry for ${formattedDate} provides complete access to the New York Times Archive puzzle collection. Our NYT pips archive from the New York Times Archive helps you explore historical puzzle data for ${formattedDate}.</p>
+                
+                <h3 style="color: #374151; margin: 24px 0 12px; font-size: 1.25rem;">Exploring the NYT Pips Archive for ${formattedDate}</h3>
+                <p style="margin-bottom: 16px;">The NYT pips archive for ${formattedDate} includes complete New York Times Archive puzzles for Easy, Medium, and Hard difficulty levels. Each puzzle in this NYT pips archive represents authentic New York Times Archive content from ${formattedDate}.</p>
+                
+                <h3 style="color: #374151; margin: 24px 0 12px; font-size: 1.25rem;">NYT Pips Archive Features for ${formattedDate}</h3>
+                <p style="margin-bottom: 16px;">To experience the NYT pips archive puzzle for ${formattedDate} from the New York Times Archive, use these interactive features:</p>
+                <ul style="margin: 0 0 16px 24px; padding: 0;">
+                    <li style="margin-bottom: 8px;">Browse the complete NYT pips archive puzzle collection from the New York Times Archive</li>
+                    <li style="margin-bottom: 8px;">Access the interactive NYT pips archive game board with difficulty options</li>
+                    <li style="margin-bottom: 8px;">Explore authentic New York Times Archive puzzle mechanics and region constraints</li>
+                    <li style="margin-bottom: 8px;">Experience the historical New York Times Archive puzzle challenge for ${formattedDate}</li>
+                </ul>
+                
+                <h3 style="color: #374151; margin: 24px 0 12px; font-size: 1.25rem;">Complete NYT Pips Archive ${formattedDate} Collection</h3>
+                <p style="margin-bottom: 16px;">Our interactive NYT pips archive displays the complete New York Times Archive puzzle for ${formattedDate} with all difficulty levels. Access the NYT pips archive game board to experience authentic New York Times Archive gameplay from ${formattedDate}.</p>
+                
+                <p style="margin-bottom: 0; font-weight: 500; color: #6b7280;">Looking for more puzzles? Visit our <a href="nyt-pips-archive.html" style="color: #2563eb; text-decoration: none;">NYT pips archive</a> for the complete New York Times Archive collection and access every date in our NYT pips archive.</p>
+            `;
+            document.getElementById('game-description-content').innerHTML = descriptionContent;
+        }
+
+        // Load puzzle data and initialize page
+        async function initializePage() {
+            const date = getDateFromFilename();
+            
+            if (!date) {
+                showError('No date specified in URL');
+                return;
+            }
+
+            const formattedDate = formatDateForDisplay(date);
+            updatePageContent(date, formattedDate);
+
+            try {
+                // Wait for database to be ready
+                if (window.waitForSupabase) {
+                    await window.waitForSupabase();
+                }
+
+                // Load puzzle data from database
+                if (window.PuzzleDatabase) {
+                    const puzzleData = await window.PuzzleDatabase.getPuzzleByDate(date);
+                    if (puzzleData) {
+                        // Set up puzzle data for the game engine
+                        window.PUZZLE_DATA = puzzleData;
+                        window.PUZZLE_DATE = date;
+                        
+                        
+                        // Initialize the game and remove loading state
+                        if (typeof NYTArchiveGame === 'undefined') {
+                            throw new Error('NYTArchiveGame class not loaded');
+                        }
+                        window.nytGame = new NYTArchiveGame(window.PUZZLE_DATA, window.PUZZLE_DATE);
+                        
+                        // Add sound functionality to the game
+                        window.nytGame.soundEnabled = soundEnabled;
+                        window.nytGame.clickSound = clickSound;
+                        window.nytGame.playSound = playSound;
+                        
+                        // Override the rotateDomino method to add sound
+                        const originalRotateDomino = window.nytGame.rotateDomino.bind(window.nytGame);
+                        window.nytGame.rotateDomino = function(dominoIndex) {
+                            originalRotateDomino(dominoIndex);
+                            playSound('click');
+                        };
+                        
+                        // Remove loading spinner - just remove the class, let the game handle the content
+                        const gameContainer = document.getElementById('game-board-container');
+                        if (gameContainer) {
+                            gameContainer.classList.remove('loading');
+                        }
+                    } else {
+                        throw new Error(`No puzzle data found for ${date}`);
+                    }
+                } else {
+                    throw new Error('Database connection not available');
+                }
+
+            } catch (error) {
+                showError(`Unable to load puzzle data for ${formattedDate}. ${error.message}`);
+            }
+        }
+
+        // Show error message
+        function showError(message) {
+            const errorElement = document.getElementById('error-message');
+            errorElement.textContent = message;
+            errorElement.style.display = 'block';
+            
+            // Hide loading state
+            const loading = document.getElementById('game-board-container');
+            loading.className = '';
+            loading.textContent = 'Unable to load puzzle';
+        }
+
+        // Sound functionality
+        let soundEnabled = localStorage.getItem('soundEnabled') !== 'false';
+        let clickSound = null;
+
+        function initAudio() {
+            try {
+                clickSound = new Audio('sound/click.mp3');
+                clickSound.preload = 'auto';
+                clickSound.volume = 0.5;
+            } catch (error) {
+                clickSound = null;
+            }
+        }
+
+        function playSound(soundType = 'click') {
+            // Use game instance variables if available, otherwise fall back to global variables
+            const gameInstance = window.nytGame;
+            const isEnabled = gameInstance ? gameInstance.soundEnabled : soundEnabled;
+            const audioSound = gameInstance ? gameInstance.clickSound : clickSound;
+            
+            if (!isEnabled || !audioSound) return;
+            try {
+                // Clone the audio to allow overlapping sounds
+                const sound = audioSound.cloneNode();
+                sound.play().catch(() => {
+                    // Silently fail if audio can't play (e.g., autoplay policy)
+                });
+            } catch (error) {
+                // Silently handle audio errors
+            }
+        }
+
+        function toggleSound() {
+            soundEnabled = !soundEnabled;
+            localStorage.setItem('soundEnabled', soundEnabled.toString());
+            updateSoundToggle();
+            
+            // Update game's sound setting if game is loaded
+            if (window.nytGame) {
+                window.nytGame.soundEnabled = soundEnabled;
+            }
+            
+        }
+        
+        function switchColorTheme(theme) {
+            localStorage.setItem('colorTheme', theme);
+            
+            // Show brief notification before refresh
+            const notification = document.createElement('div');
+            notification.style.cssText = `
+                position: fixed; top: 20px; right: 20px; z-index: 1000;
+                background: #10b981; color: white; padding: 10px 15px;
+                border-radius: 6px; font-size: 0.9em; opacity: 0;
+                transition: opacity 0.3s ease;
+            `;
+            notification.textContent = `Switching to ${theme} theme...`;
+            document.body.appendChild(notification);
+            
+            setTimeout(() => notification.style.opacity = '1', 10);
+            
+            // Hard refresh the page after a brief delay to show notification
+            setTimeout(() => {
+                window.location.reload();
+            }, 800);
+        }
+
+        function loadSavedTheme() {
+            const savedTheme = localStorage.getItem('colorTheme') || 'gelato';
+            const themeSelector = document.getElementById('themeSelector');
+            if (themeSelector) {
+                themeSelector.value = savedTheme;
+            }
+        }
+
+        function updateSoundToggle() {
+            const toggle = document.getElementById('soundToggle');
+            if (toggle) {
+                toggle.checked = soundEnabled;
+            }
+        }
+
+        // Global function for timer toggle button
+        function toggleTimer() {
+            if (window.nytGame && typeof window.nytGame.toggleTimer === 'function') {
+                window.nytGame.toggleTimer();
+            }
+        }
+
+        // Initialize page when DOM is loaded
+        document.addEventListener('DOMContentLoaded', function() {
+            initAudio();
+            updateSoundToggle();
+            loadSavedTheme();
+            initializePage();
+        });
+    </script>
+
+</body>
+</html>
