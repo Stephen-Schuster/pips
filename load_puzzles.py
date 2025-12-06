@@ -3,7 +3,7 @@ import json
 
 
 with open('all_puzzles.json','r',encoding='utf8') as f:
-    all_puzzles = []
+    all_puzzles:list[dict[str,list]] = []
     for puzzle_data in json.load(f):
         for difficulty in ['easy','medium','hard']:
             regions = puzzle_data[f'{difficulty}_puzzle']['regions']
