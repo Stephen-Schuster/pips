@@ -4,4 +4,4 @@ def pips_solver(
     dominoes: list[tuple[int,int]],
     region_rules: list[str],
     regions: list[list[int]]
-) -> list[tuple[float,float,float,float]]
+) -> list[tuple[int,int,int,int]]:
