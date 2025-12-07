@@ -96,6 +96,8 @@ if __name__ == '__main__':
     for implementation_num, implementation in enumerate(implementations):
         failed = False
         for puzzle_num, puzzle in enumerate(all_puzzles):
+            # uncomment next line if you only want to test easy/medium problems
+            # if puzzle_num % 3 == 2: continue
             try:
                 solution = implementation(puzzle)
             except Exception as e:
