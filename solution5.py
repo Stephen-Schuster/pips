@@ -5,7 +5,7 @@ import heapq
 
 from checker import check
 
-def unwrap(x:tuple[int,int,int,int]|None) -> tuple[int,int,int,int]:
+def unwrap(x):
     assert x is not None
     return x
 
@@ -124,7 +124,7 @@ def pips_solver(puzzle:dict[str,list]) -> list[tuple[int,int,int,int]]:
                         if pip_ct in seen:
                             return True
                         seen.add(pip_ct)
-            elif region['type'] == 'equal':
+            elif region['type'] == 'equals':
                 target = None
                 for spot in region['indices']:
                     if spot in spots_to_pips:
@@ -257,8 +257,8 @@ def pips_solver(puzzle:dict[str,list]) -> list[tuple[int,int,int,int]]:
                     return False
                 leq_total += max_to_add
                 leq_spots += spaces_remaining
-        # if sum(sorted_pip_counts[:leq_spots]) > leq_total:
-        #     return False
+        if sum(sorted_pip_counts[:leq_spots]) > leq_total:
+            return False
         
         return True
 

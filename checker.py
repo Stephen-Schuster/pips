@@ -1,6 +1,8 @@
 
 import sys
+import time
 import traceback
+from func_timeout import func_timeout, FunctionTimedOut
 
 def check(
     puzzle:dict[str,list],
@@ -94,12 +96,19 @@ if __name__ == '__main__':
     from load_puzzles import all_puzzles
 
     for implementation_num, implementation in enumerate(implementations):
+        start = time.time()
         failed = False
+        times = []
         for puzzle_num, puzzle in enumerate(all_puzzles):
             # uncomment next line if you only want to test easy/medium problems
-            if puzzle_num % 3 == 2: continue
             try:
-                solution = implementation(puzzle)
+                puzzle_start = time.time()
+                solution = func_timeout(10, implementation, args=(puzzle,))
+                times.append(time.time()-puzzle_start)
+            except FunctionTimedOut:
+                print(f'Implementation {implementation_num} timed out on puzzle {puzzle_num}')
+                failed = True
+                break
             except Exception as e:
                 print(f'Implementation {implementation_num} failed on puzzle {puzzle_num} with {type(e).__name__} exception:')
                 traceback.print_exc(file=sys.stdout)
@@ -118,3 +127,5 @@ if __name__ == '__main__':
         
         if not failed:
             print(f'Implementation {implementation_num} passed all puzzles')
+            print(f'Total time: {time.time()-start:.2f} seconds')
+            print(f'Puzzle times: {'\n'.join(f'{t:.6f}' for t in times)}')

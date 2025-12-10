@@ -124,7 +124,7 @@ def pips_solver(puzzle:dict[str,list]) -> list[tuple[int,int,int,int]]:
                         if pip_ct in seen:
                             return True
                         seen.add(pip_ct)
-            elif region['type'] == 'equal':
+            elif region['type'] == 'equals':
                 target = None
                 for spot in region['indices']:
                     if spot in spots_to_pips:
