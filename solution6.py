@@ -4,7 +4,6 @@ from typing import Optional
 import heapq
 
 from checker import check
-from regins_algorithm import regin_filtering
 from solve_fast_propagation import solve_fast_propagation
     
 # domino index, domino half index (0/1), dr, dc

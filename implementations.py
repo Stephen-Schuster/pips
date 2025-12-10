@@ -8,11 +8,11 @@ from solution5 import pips_solver as implementation5
 from solution6 import pips_solver as implementation6
 
 implementations = [
-    implementation0,
-    # implementation1,
-    # implementation2,
-    # implementation3,
-    # implementation4,
-    # implementation5,
+    # implementation0,
+    implementation1,
+    implementation2,
+    implementation3,
+    implementation4,
+    implementation5,
     implementation6,
 ]

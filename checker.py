@@ -95,20 +95,28 @@ if __name__ == '__main__':
     from implementations import implementations
     from load_puzzles import all_puzzles
 
+    # with open('puzzle_times.txt','r',encoding='utf8') as f:
+    #     puzzle_times = [float(line.strip()) for line in f.readlines()]
+    # puzzles_with_times = list(zip(all_puzzles, puzzle_times))
+    # puzzles_by_time = sorted(
+    #     puzzles_with_times,
+    #     key=lambda x: x[1]
+    # )
+
     for implementation_num, implementation in enumerate(implementations):
         start = time.time()
         failed = False
-        times = []
+        # times = []
         for puzzle_num, puzzle in enumerate(all_puzzles):
-            # uncomment next line if you only want to test easy/medium problems
+        # for puzzle_num, (puzzle, _) in enumerate(puzzles_by_time):
             try:
-                puzzle_start = time.time()
+                # puzzle_start = time.time()
                 solution = func_timeout(10, implementation, args=(puzzle,))
-                times.append(time.time()-puzzle_start)
+                # times.append(time.time()-puzzle_start)
             except FunctionTimedOut:
                 print(f'Implementation {implementation_num} timed out on puzzle {puzzle_num}')
                 failed = True
-                break
+                continue
             except Exception as e:
                 print(f'Implementation {implementation_num} failed on puzzle {puzzle_num} with {type(e).__name__} exception:')
                 traceback.print_exc(file=sys.stdout)
@@ -128,4 +136,4 @@ if __name__ == '__main__':
         if not failed:
             print(f'Implementation {implementation_num} passed all puzzles')
             print(f'Total time: {time.time()-start:.2f} seconds')
-            print(f'Puzzle times: {'\n'.join(f'{t:.6f}' for t in times)}')
+            # print(f'Puzzle times: {'\n'.join(f'{t:.6f}' for t in times)}')
