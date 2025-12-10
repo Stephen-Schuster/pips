@@ -4,7 +4,7 @@ from typing import Optional
 import heapq
 
 from checker import check
-from solve_fast_propagation import solve_fast_propagation
+from solve_propagation import solve_propagation
     
 # domino index, domino half index (0/1), dr, dc
 type Possibility = tuple[int,int,int,int]
@@ -19,11 +19,7 @@ def unwrap(x):
 def reduce_possibilities(
     possibilities:list[set[Possibility]]
 ) -> bool:
-    # domains = {
-    #     idx: {domino_idx for domino_idx,_,_,_ in possibility_set}
-    #     for idx, possibility_set in enumerate(possibilities)
-    # }
-    domains = solve_fast_propagation(tuple(
+    domains = solve_propagation(tuple(
         frozenset(
             domino_idx
             for domino_idx,_,_,_

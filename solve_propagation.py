@@ -1,7 +1,7 @@
 import functools
 
 @functools.cache
-def solve_fast_propagation(domains_tup):
+def solve_propagation(domains_tup):
     domains_dict = {slot: set(items) for slot, items in enumerate(domains_tup)}
     all_items = sorted(list(set().union(*domains_dict.values())))
     item_to_bit = {item: (1 << i) for i, item in enumerate(all_items)}
