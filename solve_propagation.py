@@ -1,19 +1,20 @@
 import functools
 
+# I sped this function up a lot with bitwise operations
 @functools.cache
-def solve_propagation(domains_tup):
-    domains_dict = {slot: set(items) for slot, items in enumerate(domains_tup)}
-    all_items = sorted(list(set().union(*domains_dict.values())))
+def solve_propagation(possibilities_tup):
+    possibilities_dict = {slot: set(items) for slot, items in enumerate(possibilities_tup)}
+    all_items = sorted(list(set().union(*possibilities_dict.values())))
     item_to_bit = {item: (1 << i) for i, item in enumerate(all_items)}
     bit_to_item = {v: k for k, v in item_to_bit.items()}
     
-    slots = sorted(domains_dict.keys())
+    slots = sorted(possibilities_dict.keys())
     n = len(slots)
     
     state = [0] * n
     for i, s in enumerate(slots):
         mask = 0
-        for item in domains_dict[s]:
+        for item in possibilities_dict[s]:
             mask |= item_to_bit[item]
         state[i] = mask
 
@@ -61,7 +62,7 @@ def solve_propagation(domains_tup):
                                     state[k] &= ~pair_mask
                                     changed = True
 
-    reduced_domains = {}
+    reduced_possibilities = {}
     for i, s in enumerate(slots):
         mask = state[i]
         valid_items = set()
@@ -70,6 +71,6 @@ def solve_propagation(domains_tup):
             if mask & bit:
                 valid_items.add(bit_to_item.get(bit, "Unknown"))
             bit <<= 1
-        reduced_domains[s] = valid_items
+        reduced_possibilities[s] = valid_items
         
-    return reduced_domains
+    return reduced_possibilities
